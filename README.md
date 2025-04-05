@@ -31,6 +31,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-C0C0C0?style=for-the-badge&logo=postgresql&logoColor=111)
 
 ### Follow Me ->
-[![Instagram](https://img.shields.io/badge/-Instagram-C0C0C0?style=for-the-badge&logo=Instagram&logoColor=111)](https://www.instagram.com/al.tutski/?next=%2F)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-C0C0C0?style=for-the-badge&logo=linkedin&logoColor=111)](https://www.linkedin.com/in/aliaksei-tutski-933727336/)
-[![Facebook](https://img.shields.io/badge/-Facebook-C0C0C0?style=for-the-badge&logo=facebook&logoColor=111)](https://www.facebook.com/profile.php?id=100086156001986)
+[![Instagram](https://img.shields.io/badge/-Instagram-C0C0C0?style=for-the-badge&logo=Instagram&logoColor=111)](https://www.instagram.com/al.tutski/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-C0C0C0?style=for-the-badge&logo=linkedin&logoColor=111)](https://www.linkedin.com/in/al-tutski/)
+[![Facebook](https://img.shields.io/badge/-Facebook-C0C0C0?style=for-the-badge&logo=facebook&logoColor=111)](https://www.facebook.com/al.tutski/)
