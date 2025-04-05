@@ -2,7 +2,7 @@
 
 ## Hi, I’m Alex. I’m at the beginning of my journey into software development, with a growing interest in backend technologies and real-world applications.
 
-### Languages and Tools
+### Languages and Tools ->
 ![Languages](https://img.shields.io/badge/-Languages:-111?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-C0C0C0?style=for-the-badge&logo=python&logoColor=111)
 ![Java](https://img.shields.io/badge/-java-C0C0C0?style=for-the-badge&logo=openjdk&logoColor=111)
@@ -30,4 +30,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-C0C0C0?style=for-the-badge&logo=sqlite&logoColor=111)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-C0C0C0?style=for-the-badge&logo=postgresql&logoColor=111)
 
-Follow Me
+### Follow Me ->
+[![Instagram](https://img.shields.io/badge/-Instagram-C0C0C0?style=for-the-badge&logo=Instagram&logoColor=111)](https://www.instagram.com/al.tutski/?next=%2F)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-C0C0C0?style=for-the-badge&logo=linkedin&logoColor=111)](https://www.linkedin.com/in/aliaksei-tutski-933727336/)
+[![Facebook](https://img.shields.io/badge/-Facebook-C0C0C0?style=for-the-badge&logo=facebook&logoColor=111)](https://www.facebook.com/profile.php?id=100086156001986)
