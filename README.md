@@ -34,3 +34,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-C0C0C0?style=for-the-badge&logo=Instagram&logoColor=111)](https://www.instagram.com/al.tutski/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-C0C0C0?style=for-the-badge&logo=linkedin&logoColor=111)](https://www.linkedin.com/in/al-tutski/)
 [![Facebook](https://img.shields.io/badge/-Facebook-C0C0C0?style=for-the-badge&logo=facebook&logoColor=111)](https://www.facebook.com/al.tutski/)
+[![Gmail](https://img.shields.io/badge/-Gmail-C0C0C0?style=for-the-badge&logo=gmail&logoColor=111)](mailto:tutskialex@gmail.com)
